@@ -21,8 +21,8 @@ This repository contains the code and resources for a smart Tic Tac Toe game imp
 
 <img title="a title" alt="Alt text" src="images/connection.jpg">
 
-3. Upload the Python code provided in this repository to the microcomputer.
-4. Follow the on-screen prompts to play against the smart bot opponent.
+3. Run the code on your computer IDE and make sure the BrainPad microcomputer is connecting to your computer with any USB port by USB Micro cable.
+4. Press on-board button A to play against the smart bot opponent.
 
 <img title="a title" alt="Alt text" src="images/final.jpg">
 
