@@ -11,7 +11,7 @@ This repository contains the code and resources for a smart Tic Tac Toe game imp
 <img title="a title" alt="Alt text" src="images/project.gif">
 
 **Hardware:**
-- BrainPad Pulse Microcomputer
+- [BrainPad Pulse Microcomputer](https://www.brainpad.com/devices/pulse/)
 - 16x16 LED Matrix 256 Pixels WS2812B Digital Flexible LED
 - 3 alligator clip to dupont wire
 
